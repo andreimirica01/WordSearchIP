@@ -1,0 +1,3 @@
+decorator.LabelDecorator
+decorator.MyLabel
+decorator.Label
